@@ -75,4 +75,4 @@ so that only trustworthy professionals can accept tasks and hosts can rely on th
 
 ### persona
 After doing 2 interviews with property owners (hosts) we have come up with the following persona :
-![persona](images/UX-Persona-template_page-0001.jpg)
+![persona](Images/UX-Persona-template_page-0001.jpg)
